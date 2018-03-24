@@ -1,0 +1,14 @@
+STEP 1
+  Install SOURCE TREE and VISUAL STUDIO CODE
+  
+STEP 2
+  Connect SOURCE TREE with the GIT HUB project and create a local folder on your computer
+  
+STEP 3
+  Create a new branch with SOURCE TREE on your local copy, this will act as your working draft
+  
+STEP 4 
+  Open your folder using VISUAL STUIDO CODE
+  
+STEP 5
+  Create a file or folder then make a file in that folder, a marker should appear on the VISUAL STUDIO CODE 
