@@ -1,0 +1,2 @@
+class Rainbow < ApplicationRecord
+end
